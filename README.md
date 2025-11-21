@@ -21,8 +21,7 @@ npx trigger.dev@latest dev
 npx trigger.dev@latest deploy -a http://triggerdev.localhost --skip-sync-env-vars --self-hosted # ainda não funcionou!!!!
 ```
 
-
-# CLOUDFLARE tunel
+# CLOUDFLARE tunnel
 
 Instalar cloudflared: https://developers.cloudflare.com/cloudflare-one/networks/connectors/cloudflare-tunnel/downloads/
 
