@@ -16,4 +16,5 @@ pnpm dlx trigger.dev@latest init -p proj_gxtoicdyotbsfuevfkhu -a http://triggerd
 npx trigger.dev@latest init -p proj_gxtoicdyotbsfuevfkhu -a http://triggerdev.localhost # >>> ok
 
 npx trigger.dev@latest dev
+npx trigger.dev@latest deploy -a http://triggerdev.localhost --skip-sync-env-vars --self-hosted # ainda não funcionou!!!!
 ```
